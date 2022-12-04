@@ -26,13 +26,13 @@ Currently, the AutoPrema has 3 makeup bottles with water pump motors inside each
 
 
 ### Mechanism of AutoPrema
-The user launches the app and connects to AutoPrema via bluetooth. When the user selects their location on their app, weather information is obtained from the Korea Meteological Administration.[1](https://www.weather.go.kr/w/pop/rss-guide.do) and displayed on the screen.
+The user launches the app and connects to AutoPrema via bluetooth. When the user selects their location on their app, weather information is obtained from the Korea Meteological Administration [[1](https://www.weather.go.kr/w/pop/rss-guide.do)] and displayed on the screen.
 
 Once the user presses the "spray" button, weather information is sent to AutoPrema via bluetooth. The algorithm implemented in the Arduino UNO turns on each water pump for a certain period of time, spraying accurate amount of cosmetics.
 
 ### How to use the AutoPrema
 1. Download the AutoPrema App 
-2. Launch the app and connect to AutoPrema via bluetooth ([Download](Loggers.8xp))
+2. Launch the app and connect to AutoPrema via bluetooth ([Download](Mobile_App.aia))
 3. Select your location
 4. Put your hand inside the AutoPrema and press the "spray" button
 

@@ -20,14 +20,14 @@ The AutoPrema help users apply appropriate amount of cosmetics to:
 
 
 ### Inside AutoPrema
-The AutoPrema constitutes of an Arduino UNO, 4 AA batteries, 3 mosfets, HC-05, 3 water pumps, and an ultrasonic sensor which are all connected on the circuitboard by jumper wires. [Arduino circuit](Circuit.png)
+The AutoPrema constitutes of an Arduino UNO, 4 AA batteries, 3 mosfets, HC-05, 3 water pumps, and an ultrasonic sensor which are all connected on the circuitboard by jumper wires. ([Arduino circuit](Circuit.png))
 
 Currently, the AutoPrema has 3 makeup bottles with water pump motors inside each of them. The makeup bottles were each filled with sunscreen, moisturizer, and toner.
 
 ### Mechanism of AutoPrema
-The user launches the app and connects to AutoPrema via bluetooth. When the user selects their location on their app, weather information is obtained from the Korea Meteological Administration and displayed on the screen. [[RSS from Korea Meteological Administration](https://www.weather.go.kr/w/pop/rss-guide.do)]
+The user launches the app and connects to AutoPrema via bluetooth. When the user selects their location on their app, weather information is obtained from the Korea Meteological Administration and displayed on the screen. ([RSS from Korea Meteological Administration](https://www.weather.go.kr/w/pop/rss-guide.do))
 
-Once the user presses the "spray" button, weather information is sent to AutoPrema via bluetooth. The algorithm implemented in the Arduino UNO turns on each water pump for a certain period of time, spraying accurate amount of cosmetics. [Arduino code](Arduino.ino)
+Once the user presses the "spray" button, weather information is sent to AutoPrema via bluetooth. The algorithm implemented in the Arduino UNO turns on each water pump for a certain period of time, spraying accurate amount of cosmetics. ([Arduino code](Arduino.ino))
 
 ### How to use the AutoPrema
 1. Download the AutoPrema App ([Download](Mobile_App.aia))
@@ -48,7 +48,7 @@ Once the user presses the "spray" button, weather information is sent to AutoPre
 
 모든 문제를 매일 할 수 있는 작업으로 단순화하고 하나씩 해결했습니다. 매일 Arduino 프로그래밍, 회로 설계 및 모바일 앱 프로그래밍을 독학했습니다. 논의된 아이디어를 바탕으로 시행착오를 거쳐 결국 "오토프리마"를 창작하여 FEDEC 전시회에서 창의상을 수상했습니다. 대부분의 일을 혼자 하기에는 벅찼지만 열정을 갖고 있는 일이었기 때문에 절박한 상황에서도 계속할 수 있었습니다. FEDEC 전시회 이후 프로그래밍에 진심으로 빠져들어 전공을 바꾸기로 결심했습니다.
 
-[느낀점](공설입 느낀점 (김주호).docx)
+([느낀점](공설입 느낀점 (김주호).docx))
 
 ### 오토프리마에 대하여
 오토프리마는 날씨 정보에 따라 적당량의 화장품을 분사하는 미용기계입니다.
@@ -61,7 +61,7 @@ Once the user presses the "spray" button, weather information is sent to AutoPre
 
 
 ### 오토프리마의 내부구조
-오토프리마는 Arduino UNO, 4개의 AA 배터리, 3개의 MOSFET, HC-05, 3개의 수중펌프 및 초음파 센서가 점퍼 와이어로 회로 기판에 연결되어 있습니다. [아두이노 회로도](Circuit.png)
+오토프리마는 Arduino UNO, 4개의 AA 배터리, 3개의 MOSFET, HC-05, 3개의 수중펌프 및 초음파 센서가 점퍼 와이어로 회로 기판에 연결되어 있습니다. ([아두이노 회로도](Circuit.png))
 
 현재 오토프리마는 수중펌프 3개가 각각 다른 메이크업 병에 담겨 있습니다. 3개의 화장품 병에는 자외선 차단제, 보습제 및 토너가 각각 채워져 있습니다.
 
@@ -69,10 +69,10 @@ Once the user presses the "spray" button, weather information is sent to AutoPre
 ### 오토프리마의 원리 
 사용자는 앱을 실행하고 블루투스를 통해 오토프리마에 연결합니다. 사용자가 앱에서 자신의 위치를 선택하면 기상청에서 날씨 정보를 가져와서 화면에 표시합니다.
 
-[[기상청 RSS정보](https://www.weather.go.kr/w/pop/rss-guide.do)]
+([기상청 RSS정보](https://www.weather.go.kr/w/pop/rss-guide.do))
 
 
-사용자가 "분사" 버튼을 누르면 날씨 정보가 블루투스를 통해 오토프리마로 전송됩니다. 아두이노 UNO에 구현된 알고리즘은 각 워터펌프를 일정 시간 동안 켜서 정확한 양의 화장품을 분사합니다.  [아두이노 코드](Arduino.ino)
+사용자가 "분사" 버튼을 누르면 날씨 정보가 블루투스를 통해 오토프리마로 전송됩니다. 아두이노 UNO에 구현된 알고리즘은 각 워터펌프를 일정 시간 동안 켜서 정확한 양의 화장품을 분사합니다.  ([아두이노 코드](Arduino.ino))
 
 ### 오토프리마 설명서
 1. 오토프리마 앱 다운로드 ([다운로드](Mobile_App.aia)).

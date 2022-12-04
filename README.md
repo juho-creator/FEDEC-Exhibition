@@ -62,6 +62,7 @@ Once the user presses the "spray" button, weather information is sent to AutoPre
 
 ### 오토프리마의 내부구조
 오토프리마는 Arduino UNO, 4개의 AA 배터리, 3개의 MOSFET, HC-05, 3개의 수중펌프 및 초음파 센서가 점퍼 와이어로 회로 기판에 연결되어 있습니다. [아두이노 회로도](Circuit.png)
+
 현재 오토프리마는 수중펌프 3개가 각각 다른 메이크업 병에 담겨 있습니다. 3개의 화장품 병에는 자외선 차단제, 보습제 및 토너가 각각 채워져 있습니다.
 
 

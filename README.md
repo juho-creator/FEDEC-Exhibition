@@ -3,7 +3,7 @@
 In the introductory engineering class, each group were given with an assignment to come up with a creative invention. My teammamtes had no coding experience so they had no idea what they were doing. Being Freshmen, my teammates wanted to live their "ideal college life" drinking with people and weren't willing to devote alot time to this project. I was the only one in our team who was willing to pour out all the time and energy into the project. So it was a pretty rough start.
 
 I was a newbie coder, so I was lost too.
-I didn't know how I go about learning Arduino programming, mobile programming, and circuit design all by myself. Everything seemed impossible to me.
+I didn't know how to go about learning Arduino programming, mobile programming, and circuit design all by myself. Everything seemed impossible to me.
 
 There was no way I could LITTERALLY do everything on my own. So I scheduled short meetings with my teammates to discuss about various invention ideas and I assign my teammates simple tasks that didn't require any coding experience.(ex: 3d designing of a protoype, creating powerpoint, writing reports)
 

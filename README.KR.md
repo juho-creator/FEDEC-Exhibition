@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/FEDEC-Exhibition/blob/main/README.md)
+
 ### 프로젝트의 첫 걸음
 공학설계입문에서 각 그룹이 창의적인 발명품을 생각해 내는 과제를 받았습니다. 저의 팀원들은 코딩 경험이 없었기에 무엇을 해야 하는지 전혀 몰랐습니다. 대학 신입생으로서 팀원들은 사람들과 술을 마시며 "이상적인 대학 생활"을 하고 싶었고 이 프로젝트에 많은 시간을 할애할 의향이 없었습니다. 우리 팀원 중 프로젝트에 모든 시간과 에너지를 쏟을 의향이 있는 유일한 사람은 저였습니다. 그래서 꽤 힘든 시작이었습니다.
 
